@@ -1,4 +1,4 @@
-- 👋 Hi everybody, I’m Mehmet Haşir DUT
+- 👋 Hi everybody, I’m Mehmet Haşir DUT from Turkey
 - 👀 I’m interested in software technologies and as you could see my repostories, I'm a Sofware Development Engineer in Test
 - 🌱 I’m currently learning appium, phyton and javaScript
 - 💞️ I’m looking to collaborate on new testing tools and frameworks.
